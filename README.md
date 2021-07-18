@@ -4,5 +4,13 @@ A few examples of what the code does have been shown below.
 The white box is the start node whereas the orange box is the end/target node.The shortest path found by the algorithm is the yellow path linkin the 2 nodes.
 The Light blue boxes are the boxes that the algorithm has gone through during code execution and the green boxes are the ones that were going to be used in the next iteration.
 The Black box can be viewed as walls that blobk any possible paths through them and hence the algorithm has to find a way around them.
+
+
 Image of a simple shortest path found:
+
 ![SPF_1](https://user-images.githubusercontent.com/70105902/126061926-21ad0b6e-b80a-43f6-9e9b-01d8fe469eee.JPG)
+
+Image of a much more complex maze:
+
+![SPF_2](https://user-images.githubusercontent.com/70105902/126062107-8bd77409-8756-4a4b-a70f-7a302a0b15e3.JPG)
+
