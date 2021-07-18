@@ -14,7 +14,7 @@ Image of a much more complex maze:
 
 ![SPF_2](https://user-images.githubusercontent.com/70105902/126062107-8bd77409-8756-4a4b-a70f-7a302a0b15e3.JPG)
 
-#How to use:
+## How to use:
 1. Make sure required modules are installed(pip install pygame).
 2. A grid will be generated on which one can click boxes to highlight them.
 3. The first click will create the start node and the second click will create the end node.
