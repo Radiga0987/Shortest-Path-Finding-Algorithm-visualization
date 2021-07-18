@@ -14,3 +14,13 @@ Image of a much more complex maze:
 
 ![SPF_2](https://user-images.githubusercontent.com/70105902/126062107-8bd77409-8756-4a4b-a70f-7a302a0b15e3.JPG)
 
+#How to use:
+1. Make sure required modules are installed(pip install pygame).
+2. A grid will be generated on which one can click boxes to highlight them.
+3. The first click will create the start node and the second click will create the end node.
+4. Any subsequent clicks will result in the creation of walls in black.
+5. To reset any of the individual colored boxes, just right click on them and they will be reset to a normal box.
+6. If there is need to reset the whole grid, just click the space bar on your keyboard.Reset cannot be done during execution.
+7. After setting up the start and end nodes and any required walls, just hit the enter key and algorithm will start working on finding the shortest path.
+8. Once execution is complete, the shortest path will be highlighted in yellow(If such a path exists)
+9. Feel free to mess around with the color coding if you dont like my current format.
